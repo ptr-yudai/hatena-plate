@@ -1,0 +1,39 @@
+// Variables
+
+// Font
+$font-family-base: 'Helvetica Neue', 'Helvetica', 'Arial', 'Hiragino Kaku Gothic Pro', 'Meiryo', 'MS PGothic';
+$font-family-monospace: 'Monaco', 'Consolas', 'Courier New', Courier, monospace, sans-serif;
+
+// Background color
+$background: #dac3b3;
+$bg-light: #fae3d3;
+
+// text color
+$text: #4f4a45;
+$text-light: #6c5f5b;
+$text-header: #4f4a45;
+
+// link
+$link: #6c5f5b;
+$hover: darken($link, 10%);
+
+// header
+$header-bg: #6c5f5b;
+$header-text: #cdab81;
+
+// code
+$code-bg1: #fae3d3;
+$code-bg2: #ffe8d8;
+
+// border
+$border: #cdab81;
+
+// button
+$btn: #fff;
+$btn-hover: #f5f5f5;
+
+// Media Queries
+$mq-xs: "(max-width: 480px)";
+$mq-sm: "(min-width: 768px)";
+$mq-md: "(min-width: 992px)";
+$mq-lg: "(min-width: 1200px)";
